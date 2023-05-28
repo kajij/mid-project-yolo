@@ -1,0 +1,5 @@
+classes= 2
+train  = C:/ml/train_data.txt
+valid = C:/ml/val_data.txt
+names = C:/ml/transportation.names
+backup = C:/ml/backup
